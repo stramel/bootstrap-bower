@@ -2,7 +2,7 @@
     "author": {
         "name": "https://github.com/angular-ui/bootstrap/graphs/contributors"
     },
-    "name": "angular-bootstrap",
+    "name": "angular-bootstrap-stramel",
     "version": "0.11.2",
     "main": ["./ui-bootstrap-tpls.js"],
     "dependencies": {
